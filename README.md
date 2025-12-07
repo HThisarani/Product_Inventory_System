@@ -3,7 +3,7 @@
 1. Download the project.
 2. Copy the folder into xampp/htdocs or wamp/www.
 3. Start Apache and MySQL.
-4. Import database.sql(nventory_db.sql) from the database folder.
+4. Import database.sql (Inventory_db.sql) from the database folder.
 5. Open http://localhost/product_inventory/pages/login.php
 
 ## Login Credentials
