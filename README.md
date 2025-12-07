@@ -1,1 +1,21 @@
 # Product Inventory System
+# How to Run
+1. Download the project.
+2. Copy the folder into xampp/htdocs or wamp/www.
+3. Start Apache and MySQL.
+4. Import database.sql from the database folder.
+5. Open http://localhost/product_inventory/pages/login.php
+
+## Login Credentials
+username: Admin
+password: 1234
+
+## Screenshots
+Screenshots are available in the /screenshots folder.
+
+## Technologies Used
+- PHP
+- HTML
+- JavaScript
+- Inline CSS
+- Bootstrap
