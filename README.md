@@ -8,6 +8,7 @@
 
 ## Login Credentials
 username: Admin
+
 password: 1234
 
 ## Screenshots
